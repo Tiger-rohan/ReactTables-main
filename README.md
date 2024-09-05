@@ -33,7 +33,8 @@ The table is defined using a `columns` array and a `data` array. The `useReactTa
 
 ## Images 
 
-![image](https://github.com/user-attachments/assets/6d7d7a6b-2d78-40e4-b69d-2eac2b23edc4)
+![image](https://github.com/user-attachments/assets/5126aa7f-affc-4c72-93c3-2bce05770c65)
+
 
 
 ## License
